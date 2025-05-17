@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Shovelwar
 
 ---
 
-## 🎮 Link del juego
+## 🎮 Game Link
 
 https://www.roblox.com/es/games/7978512334/Shovelwares-Brain-Game
 
